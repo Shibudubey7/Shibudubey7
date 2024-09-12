@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shibu+Dubey;MEARN+Stack+Developer;&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shibu+Dubey;MERN+Stack+Developer;&center=true"></a></p>
      
 <br/>
     
